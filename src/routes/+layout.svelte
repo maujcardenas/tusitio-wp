@@ -14,7 +14,7 @@
         margin: 0;
         padding: 0;
         font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-        background-color: #ffffff;
+        background-color: #f3f6f4;
         color: #18181b;
     }
     :global(h1, h2, h3, h4) {
@@ -31,7 +31,7 @@
     :global(.btn) {
         display: inline-block;
         background-color: #002e52;
-        color: #ffffff; /* Se usa el color de fondo para cumplir el límite de 5 colores */
+        color: #f3f6f4; /* Se usa el color de fondo para cumplir el límite de 5 colores */
         padding: 0.75rem 1.5rem;
         border: none;
         border-radius: 4px;

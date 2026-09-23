@@ -407,7 +407,7 @@
         margin: 0 auto;
         background: rgba(255, 255, 255, 0.9);
         padding: 2rem;
-        border-radius: 4px;
+        border-radius: 12px;
         border: 1px solid #71717a;
     }
     .grid-2 {
@@ -423,7 +423,7 @@
     .card {
         background-color: #f8f3f2;
         border: 1px solid #71717a;
-        border-radius: 4px;
+        border-radius: 12px;
         overflow: hidden;
     }
     .card-body {
@@ -463,7 +463,7 @@
         padding: 0.5rem;
         border: 1px solid #71717a;
         border-radius: 4px;
-        background-color: #ffffff;
+        background-color: #f3f6f4;
         color: #18181b;
         box-sizing: border-box;
     }
