@@ -88,32 +88,39 @@
             alt: "Proyecto 1",
         },
         {
-            title: "Consultora Legal",
+            title: "Actor Performer",
             description:
-                "Presencia corporativa que triplicó su captación de leads mensuales.",
-            image: "https://via.placeholder.com/400x250",
+                "Portafolio artístico para un grupo de ensayos, actuación y artes performáticas.",
+            image: "/images/brand/port-actor-performer-screen.jpg",
             alt: "Proyecto 2",
         },
         {
-            title: "Consultora Legal",
+            title: "Himchari TKD",
             description:
-                "Presencia corporativa que triplicó su captación de leads mensuales.",
-            image: "https://via.placeholder.com/400x250",
-            alt: "Proyecto 2",
+                "Academia de Tae Kwon Do en Quito, con cursos y seguimiento de ascensos",
+            image: "/images/brand/port-himcharitkd-screen.jpg",
+            alt: "Proyecto 3",
         },
         {
-            title: "Consultora Legal",
+            title: "Mamallacta Lodge",
             description:
-                "Presencia corporativa que triplicó su captación de leads mensuales.",
-            image: "https://via.placeholder.com/400x250",
-            alt: "Proyecto 2",
+                "Hotel en Papallacta, Napo, con una propuesta diferente e identidad de marca colorida",
+            image: "/images/brand/port-mamallacta-screen.jpg",
+            alt: "Proyecto 4",
         },
         {
-            title: "Consultora Legal",
+            title: "Flight Level Studios",
             description:
-                "Presencia corporativa que triplicó su captación de leads mensuales.",
-            image: "https://via.placeholder.com/400x250",
-            alt: "Proyecto 2",
+                "Inicialmente un sitio portafolio de fotografía de aviación, ahora además un Broker y Manager de Aeroplanos basado en Florida, EEUU",
+            image: "/images/brand/port-flightlevelstudios-screen.jpg",
+            alt: "Proyecto 5",
+        },
+        {
+            title: "InDomus Ec",
+            description:
+                "Consultoría financiera y contable para empresas en Quito, también con servicios internacionales",
+            image: "/images/brand/port-indomusec-screen.jpg",
+            alt: "Proyecto 6",
         },
     ];
 
@@ -135,7 +142,7 @@
 <!-- Hero Section -->
 <section
     class="hero"
-    style="background-image: url('/images/brand/banner-tustiowp.jpg');"
+    style="background-image: url('/images/brand/banner-tusitiowp.jpg');"
 >
     <div class="hero-content">
         <h1>Soluciones Web para tu Emprendimiento</h1>
