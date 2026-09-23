@@ -66,7 +66,7 @@
         position: fixed;
         top: 0;
         width: 100%;
-        background-color: #f8f3f2;
+        background-color: #00233d;
         border-bottom: 1px solid #71717a;
         z-index: 1000;
     }
@@ -110,7 +110,7 @@
             top: 100%;
             left: 0;
             width: 100%;
-            background-color: #f8f3f2;
+            background-color: #00233d;
             padding: 1rem 0;
             border-bottom: 1px solid #71717a;
         }

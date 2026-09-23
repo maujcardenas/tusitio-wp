@@ -400,7 +400,7 @@
         background-position: center;
         padding: 6rem 2rem;
         text-align: center;
-        background-color: #f8f3f2;
+        background-color: #f3f6f4;
     }
     .hero-content {
         max-width: 600px;
@@ -421,7 +421,7 @@
         gap: 2rem;
     }
     .card {
-        background-color: #f8f3f2;
+        background-color: #00233d;
         border: 1px solid #71717a;
         border-radius: 12px;
         overflow: hidden;
@@ -441,7 +441,7 @@
         text-align: left;
     }
     th {
-        background-color: #f8f3f2;
+        background-color: #00233d;
         color: #18181b;
     }
 
