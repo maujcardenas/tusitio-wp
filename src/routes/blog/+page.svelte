@@ -55,7 +55,7 @@
             >
                 <img src={post.image} alt={post.title} />
                 <div class="card-body">
-                    <span style="font-size: 0.8rem; color: #F59E0B;"
+                    <span style="font-size: 0.8rem; color: #002E52;"
                         >{post.category} - {post.date}</span
                     >
                     <h3 style="color: #18181B; margin: 0.5rem 0;">
@@ -83,14 +83,14 @@
         margin-bottom: 4rem;
     }
     .card {
-        background-color: #f4f4f5;
+        background-color: #f8f3f2;
         border: 1px solid #71717a;
         border-radius: 4px;
         overflow: hidden;
         display: block;
     }
     .card:hover {
-        border-color: #f59e0b;
+        border-color: #002e52;
     }
     .card-body {
         padding: 1.5rem;

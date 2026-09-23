@@ -7,7 +7,7 @@
     style="padding-top: 2rem; padding-bottom: 4rem;"
 >
     <header style="margin-bottom: 2rem;">
-        <span style="color: #F59E0B; font-weight: bold;">{data.category}</span>
+        <span style="color: #002E52; font-weight: bold;">{data.category}</span>
         <h1 style="margin: 0.5rem 0;">{data.title}</h1>
         <p>Última edición: {data.date}</p>
         <img

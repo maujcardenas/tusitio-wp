@@ -8,7 +8,7 @@
             <a
                 href="/"
                 style="color: #18181B; font-weight: bold; font-size: 1.5rem;"
-                >WebHosting</a
+                >Tu Sitio WP</a
             >
         </div>
 
@@ -66,7 +66,7 @@
         position: fixed;
         top: 0;
         width: 100%;
-        background-color: #f4f4f5;
+        background-color: #f8f3f2;
         border-bottom: 1px solid #71717a;
         z-index: 1000;
     }
@@ -110,7 +110,7 @@
             top: 100%;
             left: 0;
             width: 100%;
-            background-color: #f4f4f5;
+            background-color: #f8f3f2;
             padding: 1rem 0;
             border-bottom: 1px solid #71717a;
         }

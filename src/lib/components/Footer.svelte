@@ -2,11 +2,12 @@
     <div class="footer-grid">
         <div class="col">
             <span style="color: #18181B; font-weight: bold; font-size: 1.2rem;"
-                >WebHosting</span
+                >Tu Sitio WP</span
             >
             <p>
-                Impulsando pequeños y medianos emprendimientos con tecnología
-                robusta y asequible.
+                Alojamiento y diseño web profesional; acompañamiento experto e
+                información precisa, para destacar con la presencia digital de
+                tu negocio.
             </p>
         </div>
         <div class="col">
@@ -27,7 +28,7 @@
 
 <style>
     footer {
-        background-color: #f4f4f5;
+        background-color: #f8f3f2;
         border-top: 1px solid #71717a;
         padding: 3rem 2rem;
     }

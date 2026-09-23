@@ -25,12 +25,12 @@
         color: #71717a;
     }
     :global(a) {
-        color: #f59e0b;
+        color: #002e52;
         text-decoration: none;
     }
     :global(.btn) {
         display: inline-block;
-        background-color: #f59e0b;
+        background-color: #002e52;
         color: #ffffff; /* Se usa el color de fondo para cumplir el límite de 5 colores */
         padding: 0.75rem 1.5rem;
         border: none;

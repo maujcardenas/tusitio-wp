@@ -180,7 +180,7 @@
         <h2>Opiniones de Clientes (Google Business)</h2>
         <div
             class="card"
-            style="padding: 2rem; text-align: center; background-color: #F4F4F5;"
+            style="padding: 2rem; text-align: center; background-color: #F8F3F2;"
         >
             <p><em>[Embed Widget de Google Business Reviews iría aquí]</em></p>
         </div>
@@ -307,7 +307,7 @@
                     <li>Hosting 6Gb - $80</li>
                     <li>1 Dominio - $16</li>
                 </ul>
-                <h4 style="color: #F59E0B;">Total: $96/anual</h4>
+                <h4 style="color: #002E52;">Total: $96/anual</h4>
             </div>
             <div class="card card-body">
                 <h3 style="color: #18181B;">Instalación WP + Correos</h3>
@@ -316,7 +316,7 @@
                     <li>1 Dominio - $16</li>
                     <li>1-3 correos 1Gb - $12</li>
                 </ul>
-                <h4 style="color: #F59E0B;">Total: $108/anual</h4>
+                <h4 style="color: #002E52;">Total: $108/anual</h4>
             </div>
             <div class="card card-body">
                 <h3 style="color: #18181B;">Paquete Página Web Mediana</h3>
@@ -324,7 +324,7 @@
                     <li>Hosting, Dominio y Correos - $108/anual</li>
                     <li>Desarrollo página mediana - $180</li>
                 </ul>
-                <h4 style="color: #F59E0B;">Total Inicial: $288</h4>
+                <h4 style="color: #002E52;">Total Inicial: $288</h4>
             </div>
             <div class="card card-body">
                 <h3 style="color: #18181B;">Paquete E-commerce</h3>
@@ -332,7 +332,7 @@
                     <li>Hosting, Dominio y Correos - $108/anual</li>
                     <li>Desarrollo E-commerce - $300</li>
                 </ul>
-                <h4 style="color: #F59E0B;">Total Inicial: $408</h4>
+                <h4 style="color: #002E52;">Total Inicial: $408</h4>
             </div>
         </div>
     </section>
@@ -400,7 +400,7 @@
         background-position: center;
         padding: 6rem 2rem;
         text-align: center;
-        background-color: #f4f4f5;
+        background-color: #f8f3f2;
     }
     .hero-content {
         max-width: 600px;
@@ -421,7 +421,7 @@
         gap: 2rem;
     }
     .card {
-        background-color: #f4f4f5;
+        background-color: #f8f3f2;
         border: 1px solid #71717a;
         border-radius: 4px;
         overflow: hidden;
@@ -441,7 +441,7 @@
         text-align: left;
     }
     th {
-        background-color: #f4f4f5;
+        background-color: #f8f3f2;
         color: #18181b;
     }
 
