@@ -7,7 +7,7 @@
     import WhyChooseUs from "$lib/components/WhyChooseUs.svelte";
     import Packages from "$lib/components/Packages.svelte";
     import ContactForm from "$lib/components/ContactForm.svelte";
-    import EducationCallout from "$lib/components/EducationCallout.svelte";
+    import LearnCallout from "$lib/components/LearnCallout.svelte";
 
     const servicios = [
         {
@@ -144,7 +144,7 @@
     <ServicesCalculator {servicios} />
     <WhyChooseUs />
     <Packages />
-    <EducationCallout />
+    <LearnCallout />
     <ContactForm />
 </div>
 
