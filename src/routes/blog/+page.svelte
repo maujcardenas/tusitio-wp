@@ -144,8 +144,8 @@
     <ServicesCalculator {servicios} />
     <WhyChooseUs />
     <Packages />
-    <ContactForm />
     <EducationCallout />
+    <ContactForm />
 </div>
 
 <style>
