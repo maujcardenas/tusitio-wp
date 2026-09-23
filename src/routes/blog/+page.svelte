@@ -83,7 +83,7 @@
         margin-bottom: 4rem;
     }
     .card {
-        background-color: #f8f3f2;
+        background-color: #00233d;
         border: 1px solid #71717a;
         border-radius: 12px;
         overflow: hidden;
