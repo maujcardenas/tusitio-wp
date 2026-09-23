@@ -79,6 +79,44 @@
         },
     ];
 
+    const successStories = [
+        {
+            title: "Nia Party",
+            description:
+                "Eventos infantiles para la ciudad de Utrech en Holanda",
+            image: "/images/brand/port-niaparty.jpg",
+            alt: "Proyecto 1",
+        },
+        {
+            title: "Consultora Legal",
+            description:
+                "Presencia corporativa que triplicó su captación de leads mensuales.",
+            image: "https://via.placeholder.com/400x250",
+            alt: "Proyecto 2",
+        },
+        {
+            title: "Consultora Legal",
+            description:
+                "Presencia corporativa que triplicó su captación de leads mensuales.",
+            image: "https://via.placeholder.com/400x250",
+            alt: "Proyecto 2",
+        },
+        {
+            title: "Consultora Legal",
+            description:
+                "Presencia corporativa que triplicó su captación de leads mensuales.",
+            image: "https://via.placeholder.com/400x250",
+            alt: "Proyecto 2",
+        },
+        {
+            title: "Consultora Legal",
+            description:
+                "Presencia corporativa que triplicó su captación de leads mensuales.",
+            image: "https://via.placeholder.com/400x250",
+            alt: "Proyecto 2",
+        },
+    ];
+
     let seleccionados = [];
     $: totalCalculado = seleccionados.reduce(
         (sum, item) => sum + item.precio,
@@ -97,7 +135,7 @@
 <!-- Hero Section -->
 <section
     class="hero"
-    style="background-image: url('https://via.placeholder.com/1920x600');"
+    style="background-image: url('/images/brand/banner-tustiowp.jpg');"
 >
     <div class="hero-content">
         <h1>Soluciones Web para tu Emprendimiento</h1>
@@ -118,32 +156,15 @@
     <section>
         <h2>Nuestros Casos de Éxito</h2>
         <div class="grid-2">
-            <div class="card">
-                <img
-                    src="https://via.placeholder.com/400x250"
-                    alt="Proyecto 1"
-                />
-                <div class="card-body">
-                    <h3 style="color: #18181B;">Tienda Local</h3>
-                    <p>
-                        Incrementaron sus ventas un 40% mediante la
-                        implementación de Ecommerce optimizado.
-                    </p>
+            {#each successStories as story}
+                <div class="card">
+                    <img src={story.image} alt={story.alt} />
+                    <div class="card-body">
+                        <h3 style="color: #18181B;">{story.title}</h3>
+                        <p>{story.description}</p>
+                    </div>
                 </div>
-            </div>
-            <div class="card">
-                <img
-                    src="https://via.placeholder.com/400x250"
-                    alt="Proyecto 2"
-                />
-                <div class="card-body">
-                    <h3 style="color: #18181B;">Consultora Legal</h3>
-                    <p>
-                        Presencia corporativa que triplicó su captación de leads
-                        mensuales.
-                    </p>
-                </div>
-            </div>
+            {/each}
         </div>
     </section>
 
