@@ -8,7 +8,9 @@
 <header>
     <div class="container">
         <div class="logo">
-            <a href="/" class="brand-link">Tu Sitio WP</a>
+            <a href="/" class="brand-link">
+                <img src="/images/brand/TuSitioWP-Logo-transparent.png" />
+            </a>
         </div>
 
         <button
