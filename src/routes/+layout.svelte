@@ -34,7 +34,7 @@
         color: #ffffff; /* Se usa el color de fondo para cumplir el límite de 5 colores */
         padding: 0.75rem 1.5rem;
         border: none;
-        border-radius: 4px;
+        border-radius: 8px;
         cursor: pointer;
         font-weight: bold;
         text-align: center;

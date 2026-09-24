@@ -20,7 +20,7 @@
         background-image: url("/images/brand/banner-tusitiowp.jpg");
         background-size: cover;
         background-position: center;
-        padding: 12rem 2rem;
+        padding: 16rem 2rem;
         text-align: center;
         background-color: #f3f6f4;
     }

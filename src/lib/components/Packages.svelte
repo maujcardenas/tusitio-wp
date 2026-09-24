@@ -20,7 +20,8 @@
                 <li>1 Dominio - $16</li>
                 <li>1-3 correos 1Gb - $12</li>
             </ul>
-            <h4 class="package-total">Total: $108/anual</h4>
+            <a href="#masinfo" class="btn">Total: $108/anual</a>
+            <!-- <h4 class="package-total">Total: $108/anual</h4> -->
         </div>
         <div class="card card-body">
             <h3 class="package-title">Paquete Página Web Mediana</h3>
