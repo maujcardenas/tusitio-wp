@@ -9,7 +9,10 @@
     <div class="container">
         <div class="logo">
             <a href="/" class="brand-link">
-                <img src="/images/brand/TuSitioWP-Logo-transparent.png" />
+                <img
+                    src="/images/brand/logo-tusitiowp-darkbg-trnt"
+                    alt="Logo Tu Sitio WP"
+                />
             </a>
         </div>
 
@@ -63,6 +66,10 @@
         font-weight: bold;
         font-size: 1.5rem;
         text-decoration: none;
+    }
+
+    .brand-link img {
+        max-width: 100px;
     }
 
     nav {
