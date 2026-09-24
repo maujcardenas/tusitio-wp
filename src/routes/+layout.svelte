@@ -48,7 +48,7 @@
         border-radius: 4px;
     }
     main {
-        padding-top: 70px; /* Compensa el header fijo */
+        /* padding-top: 70px; Compensa el header fijo */
         min-height: calc(100vh - 200px);
     }
 </style>
