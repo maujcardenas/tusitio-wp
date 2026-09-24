@@ -10,7 +10,7 @@
         <div class="logo">
             <a href="/" class="brand-link">
                 <img
-                    src="/images/brand/logo-tusitiowp-darkbg-trnt.png"
+                    src="/images/brand/tusitiowp-logo-darkbg-t.png"
                     alt="Logo Tu Sitio WP"
                 />
             </a>
