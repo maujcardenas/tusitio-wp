@@ -13,7 +13,7 @@
     :global(body) {
         margin: 0;
         padding: 0;
-        font-family: "Arima", cursive, system-ui, sans-serif;
+        font-family: "Akt", sans-serif, system-ui;
         background-color: #f3f6f4;
         color: #18181b;
     }

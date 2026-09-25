@@ -26,7 +26,13 @@
 
         <nav class={menuOpen ? "open" : ""}>
             <a href="/">Inicio</a>
-            <a href="/blog">Blog</a>
+            <a href="/portafolio">Portafolio</a>
+            <a href="/testimonios">Testimonios</a>
+            <a href="/especialidades">Especialidades</a>
+            <a href="/precios">Personaliza tus servicios</a>
+            <a href="/paquetes-todo-1">Paquetes todo en 1</a>
+            <a href="/blog">Educación y Recursos</a>
+            <a href="/contacto">Contacto</a>
             <div class="social-icons">
                 <a href="#linkedin" aria-label="LinkedIn">
                     <LinkedInLogo />
@@ -47,8 +53,8 @@
         position: fixed;
         top: 0;
         width: 100%;
-        background-color: #00233d;
-        border-bottom: 1px solid #71717a;
+        background-color: #0c325a;
+        border-bottom: 1px solid #2a2829;
         z-index: 1000;
     }
 
@@ -115,9 +121,9 @@
             top: 100%;
             left: 0;
             width: 100%;
-            background-color: #00233d;
+            background-color: #0c325a;
             padding: 1rem 0;
-            border-bottom: 1px solid #71717a;
+            border-bottom: 1px solid #2a2829;
         }
 
         nav.open {
