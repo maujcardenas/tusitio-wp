@@ -69,7 +69,7 @@
     }
 
     .brand-link img {
-        max-width: 100px;
+        max-width: 150px;
     }
 
     nav {
