@@ -64,8 +64,8 @@
                 <a href="/portafolio">Portafolio</a>
                 <a href="/testimonios">Testimonios</a>
                 <a href="/especialidades">Especialidades</a>
-                <a href="/precios">Personaliza tus servicios</a>
-                <a href="/paquetes-todo-1">Paquetes todo en 1</a>
+                <a href="/precios">Precios y servicios</a>
+                <a href="/paquetes-todo-1">Paquetes predeterminados</a>
                 <a href="/blog">Educación y Recursos</a>
                 <a href="/contacto">Contacto</a>
             </nav>

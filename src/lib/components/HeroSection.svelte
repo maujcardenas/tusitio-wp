@@ -4,9 +4,12 @@
 
 <section class="hero">
     <div class="hero-content">
-        <h1>Soluciones Web para tu Emprendimiento</h1>
+        <h1>Tu Sitio WordPress</h1>
         <p class="hero-description">
-            Hosting confiable y diseño profesional sin complicaciones.
+            Adquiere un sitio web Wordpress y gestiona tu presencia en línea sin
+            complicaciones. Hosting de alta calidad. Acompañamiento experto.
+            Precios y procesos transparentes. Educación continua en tecnologías
+            web.
         </p>
         <div class="hero-actions">
             <a href="#servicios" class="btn">Ver Servicios</a>
