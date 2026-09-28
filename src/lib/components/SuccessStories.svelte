@@ -25,8 +25,8 @@
     }
 
     .card {
-        background-color: #00233d;
-        border: 1px solid #71717a;
+        background-color: #f8fafc;
+        border: 1px solid #2a2829;
         border-radius: 12px;
         overflow: hidden;
     }
@@ -36,6 +36,6 @@
     }
 
     .card-title {
-        color: #18181b;
+        color: #000000;
     }
 </style>

@@ -25,20 +25,20 @@
         background-position: center;
         padding: 16rem 2rem;
         text-align: center;
-        background-color: #f3f6f4;
+        background-color: #f8fafc;
     }
 
     .hero-content {
         max-width: 600px;
         margin: 0 auto;
-        background: rgba(255, 255, 255, 0.9);
+        background: #f8fafc;
         padding: 2rem;
         border-radius: 12px;
-        border: 1px solid #71717a;
+        border: 1px solid #2a2829;
     }
 
     .hero-description {
-        color: #18181b;
+        color: #2a2829;
     }
 
     .hero-actions {
@@ -46,6 +46,6 @@
     }
 
     .btn-dark {
-        background-color: #18181b;
+        background-color: #2a2829;
     }
 </style>

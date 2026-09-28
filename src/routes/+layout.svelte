@@ -15,23 +15,23 @@
         padding: 0;
         font-family: "Akt", sans-serif, system-ui;
         background-color: #f3f6f4;
-        color: #18181b;
+        color: #2a2829;
     }
     :global(h1, h2, h3, h4) {
-        color: #18181b;
+        color: #2a2829;
         margin-bottom: 0.5rem;
     }
     :global(p, span, li) {
-        color: #71717a;
+        color: #2a2829;
     }
     :global(a) {
-        color: #002e52;
+        color: #0c325a;
         text-decoration: none;
     }
     :global(.btn) {
         display: inline-block;
-        background-color: #002e52;
-        color: #ffffff; /* Se usa el color de fondo para cumplir el límite de 5 colores */
+        background-color: #0c325a;
+        color: #ffffff;
         padding: 0.75rem 1.5rem;
         border: none;
         border-radius: 8px;
@@ -48,7 +48,7 @@
         border-radius: 4px;
     }
     main {
-        /* padding-top: 70px; Compensa el header fijo */
+        padding-top: 70px; /*por el header fijo */
         min-height: calc(100vh - 200px);
     }
 </style>

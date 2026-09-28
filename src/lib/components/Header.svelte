@@ -74,10 +74,20 @@
             <div class="mobile-actions">
                 <a href="/login" class="login-link">Iniciar sesión</a>
                 <div class="social-icons">
-                    <a href="#linkedin" aria-label="LinkedIn">
+                    <a
+                        href="https://www.linkedin.com/company/tusitio-wp"
+                        aria-label="LinkedIn"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
                         <LinkedInLogo />
                     </a>
-                    <a href="#youtube" aria-label="YouTube">
+                    <a
+                        href="http://www.youtube.com/@TuSitioWP"
+                        aria-label="YouTube"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
                         <YouTubeLogo />
                     </a>
                     <a
