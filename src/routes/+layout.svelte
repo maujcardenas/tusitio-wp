@@ -14,7 +14,7 @@
         margin: 0;
         padding: 0;
         font-family: "Akt", sans-serif, system-ui;
-        background-color: #f3f6f4;
+        background-color: #ffffff;
         color: #2a2829;
     }
     :global(h1, h2, h3, h4) {

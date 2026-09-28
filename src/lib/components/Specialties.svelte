@@ -131,8 +131,8 @@
     }
 
     .card {
-        background-color: #e0f2fe;
-        border: 1px solid #f8fafc;
+        background-color: #f8fafc;
+        border: 1px solid #2a2829;
         border-radius: 12px;
         overflow: hidden;
         color: #ffffff;
